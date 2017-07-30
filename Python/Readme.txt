@@ -1,0 +1,1 @@
+Note: These were solved with no prior knowledge of python.
