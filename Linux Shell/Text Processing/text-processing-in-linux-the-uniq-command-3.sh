@@ -1,0 +1,1 @@
+uniq -c -i | colrm 1 6
