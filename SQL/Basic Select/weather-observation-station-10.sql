@@ -1,0 +1,3 @@
+SELECT distinct city 
+from station
+where substring(city,length(city),length(city)) not in ('a','e','i','o','u')
