@@ -1,0 +1,1 @@
+grep -w [tT][hH][eE]
