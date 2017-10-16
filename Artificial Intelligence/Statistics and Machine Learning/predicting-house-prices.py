@@ -16,3 +16,4 @@ linear_model.fit(Anp[0:N,0:F],Anp[0:N,F])
 y_fit = linear_model.predict(Bnp[0:T,0:F])
 for i in range(T):
     print(y_fit[i])
+    
